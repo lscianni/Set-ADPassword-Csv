@@ -4,6 +4,7 @@ Import-Module C:\ResetPassword.psm1
 # pass a csv file to the Set-OSCADAccountPassword command 
 # REQUIRES ADMIN PRIVS
 # Louis Scianni 11/24/2017
+# Released under FreeBSD license
  
 $CsvFile = $ARGS
 
